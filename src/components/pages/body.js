@@ -75,11 +75,11 @@ function body() {
               <Card className="text-center11">
                 <Card.Body>
                   <Card.Text>
-                  <ProgressBar now={60} label={'60'} />PYTHON<br/>
-                  <ProgressBar now={70} label={'70'} />JAVASCRIPT<br/>
-                  <ProgressBar now={80} label={'80'} />JAVA<br/> 
-                  <ProgressBar now={90} label={'90'} />HTML & CSS<br/>
-                  <ProgressBar now={90} label={'70'} />REACT<br/>
+                  <ProgressBar now={90} label={'90'} />PYTHON<br/>
+                  <ProgressBar now={80} label={'80'} />JAVASCRIPT<br/>
+                  <ProgressBar now={75} label={'75'} />JAVA<br/> 
+                  <ProgressBar now={95} label={'95'} />HTML & CSS<br/>
+                  <ProgressBar now={80} label={'80'} />REACT<br/>
                   </Card.Text>
                   <Card.Text>
                   <strong>Age:</strong> 24 <br/>
