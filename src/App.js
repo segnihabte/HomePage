@@ -4,7 +4,7 @@ import Contact from './components/pages/Contact';
 import About from './components/pages/About';
 import Resume from './components/pages/Resume'
 import './App.css'; 
-import {HashRouter as Router, Route } from 'react-router-dom'
+import {BrowserRouter as Router, Route } from 'react-router-dom'
 import { Container } from 'react-bootstrap';
 import { Routes } from 'react-router-dom';
 
@@ -16,7 +16,7 @@ function App() {
       <main>
         <Container>
           <Routes>
-            <Route path="/HomePage" element={<Body />}></Route> 
+            <Route path="/Page1" element={<Body/>}></Route> 
             <Route path="/Service" element={<Service/>}></Route>
             <Route path="/contact" element={<Contact/>}></Route>
             <Route path="/Resume" element={<Resume/>}></Route>

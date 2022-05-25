@@ -21,7 +21,7 @@ function Header() {
           <Nav.Link className='Resume' href={'Resume'}><strong>Resume</strong></Nav.Link>
           <Nav.Link className='Service' href={'Service'}><strong>Services</strong></Nav.Link>
           <Nav.Link className='contact' href={'Contact'}><strong>Contact</strong></Nav.Link>
-          <Nav.Link className='body' href={'/'}><FiHome/></Nav.Link>
+          <Nav.Link className='body' href={'/Page1'}><FiHome/></Nav.Link>
           <Nav.Link className='githublink' href={'https://github.com/segnihabte/Portofolio.git'} target={'_blank'}>
             <strong><FiCode/></strong></Nav.Link>
           
