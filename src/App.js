@@ -5,7 +5,7 @@ import Contact from './components/pages/Contact';
 import About from './components/pages/About';
 import Resume from './components/pages/Resume'
 import './App.css'; 
-import {BrowserRouter as Router, Route } from 'react-router-dom'
+import {HashRouter as Router, Route } from 'react-router-dom'
 import { Container } from 'react-bootstrap';
 import { Routes } from 'react-router-dom';
 
