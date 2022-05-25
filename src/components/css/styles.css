@@ -1,0 +1,138 @@
+@font-face {
+  font-family: mett;
+  src: url(../fonts/Metropolis-Thin.otf);
+}
+@font-face {
+  font-family: Lora;
+  src: url(../fonts/IBMPlexSerif-Regular.ttf);
+}
+@font-face {
+  font-family: Bril;
+  src: url(../fonts/Brilliant\ signature\ regular.otf);
+}
+.fade-in-section {
+  opacity: 0;
+  transform: translateY(20vh);
+  visibility: hidden;
+  transition: opacity 1200ms ease-out, transform 600ms ease-out,
+  visibility 1200ms ease-out;
+  will-change: opacity, transform, visibility;
+}
+.fade-in-section.is-visible {
+  opacity: 1;
+  transform: none;
+  visibility: visible;
+}
+
+.nav1{
+  font-family: 'mett';
+}
+.nav1 .me-auto{
+  font-size: 0.9rem;
+}
+
+.vl{
+  border-bottom: 1px solid green;
+  width: '30rem';
+  position:'absolute';
+  margin-Left:'0rem'
+}
+.section-1 {
+  height: 100vh;
+  align-items: center;
+  background-color: white;
+}
+.section-2 {
+  height: 100vh;
+}
+.section-1 .row.no-gutters .col-md-8 .col1{
+  height: 100vh;
+  font-family: Lora;
+  text-align: center;
+  padding-top: 10rem;
+}
+.section-1 .row.no-gutters .col-md-4 .col2 .card{
+  width: 100%rem;
+  height: 58vh;
+  margin-top: 5rem;
+  background-color: #212529;
+}
+
+.hero-content-inner {
+  width: 450px;
+  color: #323232;
+  margin: 0 auto;
+}
+h1 {
+  font-weight: 500;
+  font-size: 32px;
+  margin-bottom: 24px;
+}
+
+.section-2 .row.no-gutters .col .col1 .text-center11{
+    font-family: 'mett';
+    text-align: center;
+    font-size: 0.9rem;
+}
+.section-2 .row.no-gutters .col .col2 .text-center12{
+  font-family: 'mett';
+  text-align: center;
+  font-size: 0.9rem;
+  
+}
+.section-2 .row.no-gutters .col .col2 .text-center12{
+  border-style: none;  
+  text-align: center;
+  font-size: 0.9rem;
+}
+.section-2 .row.no-gutters .col .col2 .text-center12 .Card.Text{
+  border-style: none;  
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+.section-2 .row.no-gutters .col .col1 .text-center11{
+  border-style: none;  
+  font-size: 0.9rem;
+}
+
+/* this is the footer */
+.text-small {
+  font-size: 0.9rem;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+a:hover, a:focus {
+  text-decoration: none;
+}
+
+.form-control {
+  background: #212529;
+  border-color: #545454;
+}
+
+.form-control:focus {
+  background: #212529;
+}
+
+footer {
+  background: rgb(225, 225, 225);
+  font-family: 'mett';
+}
+
+.section-1 .row.no-gutters .col-md-8 .col1 .btn-1{
+  width: 15rem;
+}
+
+body, html {
+  height: 100%;
+}
+.photocard{
+
+}
+
