@@ -1,6 +1,6 @@
 {
-  "name": "https://segnihabte.github.io/Port1",
-  "homepage": "/",
+  "name": "Portofolio",
+  "homepage": "https://segnihabte.github.io/Port1",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
