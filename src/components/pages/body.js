@@ -104,20 +104,22 @@ function body() {
             <Card className="text-center12">
                 <Card.Body>
                 <Card.Text>
-                    Python <br/>
-                    Out of the box thinker with ability and interest in practical working environmen<br/>
-                    JavaScript <br/>
-                    Out of the box thinker with ability and interest in practical working environmen<br/>
-                    Java <br/>
-                    Out of the box thinker with ability and interest in practical working environmen<br/>
-                    HTML & CSS <br/>
-                    Out of the box thinker with ability and interest in practical working environmen<br/>
-                    React <br/>
-                    Out of the box thinker with ability and interest in practical working environmen<br/>
+                <strong>Python</strong><br/>
+                    Working experience in python and Django, building backends and fullstack webapp
+                    development, and also good grip of datastructures in python and REST APIs
+                    <br/>
+                    <strong>JavaScript</strong><br/>
+                    JS being the backbone of web design  i have been using it as looong as as i have been developing<br/>
+                    <strong>Java</strong><br/>
+                    Since it is one of the easiest and the one i started basic coding with i am highly capable of working with Java<br/>
+                    <strong>HTML & CSS </strong><br/>
+                    I have created a working experience creating highly responsive and attractive web UIs<br/>
+                    <strong>React</strong><br/>
+                    Even the current website is is made using react and jsx, responsive and Agile Design<br/>
                  </Card.Text>
                   <Card.Text>
-                  VSC and version control <br/>
-                    Out of the box thinker with ability and interest in practical working environmen<br/>
+                  <strong>Version Controll</strong><br/>
+                    I have used git and github in working with all my works and have a good understanding on how to collaborate with teams<br/>
                   </Card.Text>
                 </Card.Body>
               </Card>
